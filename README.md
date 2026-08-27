@@ -11,6 +11,7 @@
 <li>matplotlib
 <li>scikit-learn
 <li>Files
+<li>python
 <br><br>The project contains the following files:
 
 <p>boston_housing.ipynb: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
