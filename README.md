@@ -12,7 +12,7 @@
 <li>scikit-learn
 <li>Files
 <li>python
-<br><br>The project contains the following files:
+<br><br>The project boston-house-price-prediction-using-linear-regression contains the following files:
 
 <p>boston_housing.ipynb: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
 README.md: This file.</p>
