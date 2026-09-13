@@ -1,4 +1,4 @@
-# boston-house-price-prediction-using-linear-regression
+# boston-house-price-prediction-using-linear-regression: 
 
 <h3><b>Boston House Price Prediction using Linear Regression:</b></h3>
 <p>This project is a simple implementation of linear regression to predict the prices of houses in Boston. The dataset used in this project is the famous Boston Housing dataset available in the sklearn.datasets library.</p>
