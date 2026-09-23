@@ -19,7 +19,7 @@ README.md: This file.</p>
 <br>Usage
 <p>To use this project, simply open the boston_housing.ipynb file in Jupyter notebook or Jupyter Lab and run the cells. The notebook contains detailed comments and explanations for each step of the process.</p>
 
-<h4><b><br>Dataset</h4></b>
+<h4><b><br>Dataset:</h4></b>
 <p>The Boston Housing dataset contains information about various features of houses in Boston, such as crime rate, number of rooms, proximity to highways, and more. The dataset contains a total of 506 instances and 13 features, and the target variable is the median value of owner-occupied homes in thousands of dollars.<p/>
 
 <br><h4><b>Model</h4></b>
