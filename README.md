@@ -22,7 +22,7 @@ README.md: This file.</p>
 <h4><b><br>Dataset:</h4></b>
 <p>The Boston Housing dataset contains information about various features of houses in Boston, such as crime rate, number of rooms, proximity to highways, and more. The dataset contains a total of 506 instances and 13 features, and the target variable is the median value of owner-occupied homes in thousands of dollars.<p/>
 
-<br><h4><b>Model</h4></b>
+<br><h4><b>Model:</h4></b>
 <p>Linear regression is a simple and effective method for predicting continuous variables. In this project, we use the scikit-learn implementation of linear regression to train a model on the Boston Housing dataset. We split the dataset into training and testing sets, fit the model to the training data, and evaluate its performance on the testing data using the mean squared error metric.</p>
 
 <br><h4><b>Conclusion:</h4></b>
