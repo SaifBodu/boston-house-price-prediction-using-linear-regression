@@ -6,12 +6,12 @@
 <h4><b>Dependencies:</h4></b>
 <br>The following packages are required to run this project:
 
-<li>numpy.
-<li>pandas.
-<li>matplotlib.
-<li>scikit-learn.
-<li>Files.
-<li>python.
+<li>numpy
+<li>pandas
+<li>matplotlib
+<li>scikit-learn
+<li>Files
+<li>python
 <br><br>The project boston-house-price-prediction-using-linear-regression contains the following files:
 
 <p>boston_housing.ipynb: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
