@@ -16,7 +16,7 @@
 
 <p>boston_housing.ipynb: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
 README.md: This file.</p>
-<br>Usage
+<br>Usage:
 <p>To use this project, simply open the boston_housing.ipynb file in Jupyter notebook or Jupyter Lab and run the cells. The notebook contains detailed comments and explanations for each step of the process.</p>
 
 <h4><b><br>Dataset:</h4></b>
